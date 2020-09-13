@@ -1,0 +1,1 @@
+web: gunicorn covid-19-map-update:server
